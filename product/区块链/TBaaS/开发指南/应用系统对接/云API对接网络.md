@@ -1,4 +1,4 @@
-云 API 为腾讯云向外提供服务的接口，应用系统需要根据语言集成对应的 SDK 调用云 API，SDK 的集成方法请参考以下对应链接：
+云 API 为腾讯云向外提供服务的接口，应用系统需要根据语言集成对应的 SDK 调用云 API，SDK 的集成方法请参考以下对应链接1：
 - [Tencent Cloud SDK 3.0 for Python](https://github.com/TencentCloud/tencentcloud-sdk-python)
 - [Tencent Cloud SDK 3.0 for Java](https://github.com/TencentCloud/tencentcloud-sdk-java)
 - [Tencent Cloud SDK 3.0 for PHP](https://github.com/TencentCloud/tencentcloud-sdk-php)
